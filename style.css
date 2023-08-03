@@ -1,0 +1,48 @@
+body {
+    margin: 0 auto;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: top center;
+    height: 100vh;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 32px;
+}
+
+main {
+    display: flex;
+    flex-direction: column;
+    justify-self: center;
+    padding: 100px;
+    gap: 20px;
+}
+
+#btn {
+    padding: 20px;
+    border-radius: 8px;
+    font-size: 34px;
+    cursor: pointer;
+    background-color: chocolate;
+    border: none;
+    box-shadow: 1px 1px 5px rgba(0,0,0,0.5);
+    color: white;
+}
+
+#list {
+    list-style: decimal;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    background-color: aquamarine;
+    padding: 10px 60px;
+    border-radius: 8px;
+    box-shadow: 1px 1px 5px rgba(0,0,0,0.3);
+}
+
+.lucky {
+    color: chocolate;
+    font-style: italic;
+    border-radius: 6px;
+    font-weight: bold;
+    
+}
