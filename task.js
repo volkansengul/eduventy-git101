@@ -32,3 +32,5 @@ function getLuckyPerson() {
   person.classList.add("lucky");
   person.innerText = `${people[luckyNumber].name} - Lucky Person `;
 }
+
+console.log("merhaba dünya");
