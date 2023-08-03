@@ -10,6 +10,7 @@ const people = [
   { name: "Ufuk" },
   { name: "Emine" },
   { name: "Mümtaz" },
+  { name: "Yaşar" },
 ];
 
 const listElm = document.getElementById("list");
