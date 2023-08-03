@@ -34,3 +34,5 @@ function getLuckyPerson() {
 }
 
 console.log("merhaba dünya");
+
+console.log('bunu da başkası yazdı');
